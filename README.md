@@ -105,8 +105,4 @@ I will continue adding more Cisco Packet Tracer labs, including:
 
 ## 👨‍💻 Author
 
-**Abdul Rahman**
-
-Learning Cisco Networking | AI & Data Science | Cloud Computing
-
-GitHub: https://github.com/yourusername
+Abdul Rahman
